@@ -1,12 +1,12 @@
 ---
-Title: Porque REA?
+Title: Por que REA?
 Date: 2016-01-01
 Description: Main
 ---
 Pense em um cenário onde um colega lhe empresta um DVD para
 usar em sala de aula. Considere a possibilidade de que você queira
 utilizar somente um trecho do vídeo, e queira adicionar legendas para
-seus alunos. Imagine a dificuldade que isso seria! Agora, pensanto no **aspecto técnico**
+seus alunos. Imagine a dificuldade que isso seria! Agora, pensando no **aspecto técnico**
 se o recurso estivesse à sua disposição em um formato mais comum (por exemplo, um
 arquivo de vídeo no formato MPEG ou MP4), seria fácil modificá-lo em um computador
 que tenha o software adequado. Quanto mais comum e aberto for o formato,
@@ -18,7 +18,7 @@ ODT (documentos de texto do Open Office/Libre Office/BR Office).
 Por sua vez, no **aspecto legal**, se o DVD contém um vídeo com uma licença
 restritiva ou “todos os direitos reservados”, você não tem direito de
 modificá-lo (como por exemplo, cortar um trecho ou adicionar legendas)
-sem pedir permissão ao criador ou quem quer que seja que detêm os
+sem pedir permissão ao criador ou quem quer que seja que detenha os
 direitos. Se o vídeo tiver uma licença mais aberta e permissiva, você
 pode trabalhar com o recurso sabendo exatamente quais direitos o autor
 da obra abriu mão para você e em quais condições. O uso e criação de REA
